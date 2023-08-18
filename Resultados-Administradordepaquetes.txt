@@ -1,0 +1,14 @@
+﻿
+
+Intentando recopilar información sobre la dependencia para el paquete 'iTextSharp.5.5.13.3' respecto al proyecto 'Control-EyS', con el destino '.NETFramework,Version=v4.7.2'
+La recopilación de información de dependencia tardó 837 ms
+Intentando resolver las dependencias para el paquete 'iTextSharp.5.5.13.3' con DependencyBehavior 'Lowest'
+La resolución de información de dependencia tardó 0 ms
+Resolviendo acciones para instalar el paquete 'iTextSharp.5.5.13.3'
+Se resolvieron las acciones para instalar el paquete 'iTextSharp.5.5.13.3'
+  GET https://api.nuget.org/v3-flatcontainer/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/itextsharp/5.5.13.3/itextsharp.5.5.13.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/itextsharp/5.5.13.3/itextsharp.5.5.13.3.nupkg 64 ms 
+  OK https://api.nuget.org/v3-flatcontainer/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg 72 ms 
+Instalando BouncyCastle 1.8.9.
+Instalando iTextSharp 5.5.13.3.
